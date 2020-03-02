@@ -1,0 +1,23 @@
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Writing database to /Users/sun/Github/VirusMzz.github.io/db.json","time":"2020-03-02T14:51:22.906Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Hexo version: \u001b[35m3.9.0\u001b[39m","time":"2020-03-02T14:51:22.917Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Working directory: \u001b[35m~/Github/VirusMzz.github.io/\u001b[39m","time":"2020-03-02T14:51:22.917Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Config loaded: \u001b[35m~/Github/VirusMzz.github.io/_config.yml\u001b[39m","time":"2020-03-02T14:51:22.981Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2020-03-02T14:51:22.994Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/filters/exturl.js\u001b[39m","time":"2020-03-02T14:51:22.998Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/helpers/engine.js\u001b[39m","time":"2020-03-02T14:51:22.998Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/helpers/next-url.js\u001b[39m","time":"2020-03-02T14:51:22.999Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/center-quote.js\u001b[39m","time":"2020-03-02T14:51:22.999Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/full-image.js\u001b[39m","time":"2020-03-02T14:51:22.999Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/exturl.js\u001b[39m","time":"2020-03-02T14:51:23.000Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/button.js\u001b[39m","time":"2020-03-02T14:51:23.000Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge.js\u001b[39m","time":"2020-03-02T14:51:23.002Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/group-pictures.js\u001b[39m","time":"2020-03-02T14:51:23.002Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge-configs.js\u001b[39m","time":"2020-03-02T14:51:23.004Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/include-raw.js\u001b[39m","time":"2020-03-02T14:51:23.005Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/mermaid.js\u001b[39m","time":"2020-03-02T14:51:23.005Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/label.js\u001b[39m","time":"2020-03-02T14:51:23.005Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/pdf.js\u001b[39m","time":"2020-03-02T14:51:23.005Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/tabs.js\u001b[39m","time":"2020-03-02T14:51:23.006Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/video.js\u001b[39m","time":"2020-03-02T14:51:23.006Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/note.js\u001b[39m","time":"2020-03-02T14:51:23.006Z","v":0}
+{"name":"hexo","hostname":"JSPanda","pid":2568,"level":20,"msg":"Database saved","time":"2020-03-02T14:51:23.011Z","v":0}
